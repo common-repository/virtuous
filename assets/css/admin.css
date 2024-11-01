@@ -1,0 +1,47 @@
+.span-cb {
+	width: 10%;
+}
+
+.span-15 {
+	width: 15%;
+}
+
+.span-25 {
+	width: 25%;
+}
+
+.span-40 {
+	width: 40%;
+}
+
+.span-50 {
+	width: 50%;
+}
+
+.center {
+	text-align:  center;
+}
+
+.left {
+	text-align:  left;
+}
+
+.right {
+	text-align:  right;
+}
+
+.full-text {
+	width:  90%;
+}
+
+.top {
+	vertical-align: top;
+}
+
+.middle {
+	vertical-align:  middle;
+}
+
+.mid-margin {
+	margin-top:  20px;
+}
